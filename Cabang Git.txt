@@ -1,3 +1,5 @@
 untulk mememnuhi cabang git maka harus dipenuhi Beberapa saran:
 1. Proses Git
 2. Proses Commit
+3. Proses Pull
+4. Proses Konflik
