@@ -1,0 +1,3 @@
+untulk mememnuhi cabang git maka harus dipenuhi Beberapa saran:
+1. Proses Git
+2. Proses Commit
